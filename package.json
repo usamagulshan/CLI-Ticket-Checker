@@ -1,6 +1,6 @@
 {
-  "name": "ticket-checker2",
-  "version": "1.0.1",
+  "name": "ticket-cli",
+  "version": "2.1.2",
   "description": "",
   "main": "index.js",
   "type": "module",
